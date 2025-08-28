@@ -1,0 +1,1571 @@
+ObjectId,Indicator,Unit,Date,Value
+1,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1958M03,315.7
+2,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1958M04,317.45
+3,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1958M05,317.51
+4,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1958M06,317.24
+5,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1958M07,315.86
+6,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1958M08,314.93
+7,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1958M09,313.2
+8,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1958M10,312.43
+9,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1958M11,313.33
+10,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1958M12,314.67
+11,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1959M01,315.58
+12,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1959M02,316.48
+13,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1959M03,316.65
+14,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1959M03,0.3
+15,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1959M04,317.72
+16,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1959M04,0.09
+17,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1959M05,318.29
+18,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1959M05,0.25
+19,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1959M06,318.15
+20,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1959M06,0.29
+21,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1959M07,316.54
+22,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1959M07,0.22
+23,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1959M08,314.8
+24,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1959M08,-0.04
+25,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1959M09,313.84
+26,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1959M09,0.2
+27,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1959M10,313.33
+28,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1959M10,0.29
+29,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1959M11,314.81
+30,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1959M11,0.47
+31,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1959M12,315.58
+32,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1959M12,0.29
+33,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1960M01,316.43
+34,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1960M01,0.27
+35,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1960M02,316.98
+36,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1960M02,0.16
+37,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1960M03,317.58
+38,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1960M03,0.29
+39,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1960M04,319.03
+40,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1960M04,0.41
+41,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1960M05,320.04
+42,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1960M05,0.55
+43,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1960M06,319.59
+44,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1960M06,0.45
+45,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1960M07,318.18
+46,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1960M07,0.52
+47,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1960M08,315.9
+48,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1960M08,0.35
+49,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1960M09,314.17
+50,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1960M09,0.11
+51,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1960M10,313.83
+52,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1960M10,0.16
+53,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1960M11,315
+54,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1960M11,0.06
+55,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1960M12,316.19
+56,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1960M12,0.19
+57,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1961M01,316.89
+58,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1961M01,0.15
+59,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1961M02,317.7
+60,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1961M02,0.23
+61,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1961M03,318.54
+62,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1961M03,0.3
+63,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1961M04,319.48
+64,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1961M04,0.14
+65,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1961M05,320.58
+66,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1961M05,0.17
+67,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1961M06,319.77
+68,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1961M06,0.06
+69,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1961M07,318.57
+70,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1961M07,0.12
+71,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1961M08,316.79
+72,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1961M08,0.28
+73,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1961M09,314.99
+74,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1961M09,0.26
+75,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1961M10,315.31
+76,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1961M10,0.47
+77,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1961M11,316.1
+78,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1961M11,0.35
+79,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1961M12,317.01
+80,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1961M12,0.26
+81,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1962M01,317.94
+82,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1962M01,0.33
+83,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1962M02,318.55
+84,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1962M02,0.27
+85,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1962M03,319.68
+86,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1962M03,0.36
+87,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1962M04,320.57
+88,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1962M04,0.34
+89,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1962M05,321.02
+90,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1962M05,0.14
+91,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1962M06,320.62
+92,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1962M06,0.27
+93,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1962M07,319.61
+94,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1962M07,0.33
+95,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1962M08,317.4
+96,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1962M08,0.19
+97,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1962M09,316.25
+98,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1962M09,0.4
+99,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1962M10,315.42
+100,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1962M10,0.03
+101,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1962M11,316.69
+102,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1962M11,0.19
+103,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1962M12,317.7
+104,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1962M12,0.22
+105,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1963M01,318.74
+106,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1963M01,0.25
+107,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1963M02,319.07
+108,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1963M02,0.16
+109,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1963M03,319.86
+110,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1963M03,0.06
+111,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1963M04,321.38
+112,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1963M04,0.25
+113,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1963M05,322.25
+114,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1963M05,0.38
+115,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1963M06,321.48
+116,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1963M06,0.27
+117,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1963M07,319.74
+118,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1963M07,0.04
+119,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1963M08,317.77
+120,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1963M08,0.12
+121,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1963M09,316.21
+122,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1963M09,-0.01
+123,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1963M10,315.99
+124,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1963M10,0.18
+125,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1963M11,317.07
+126,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1963M11,0.12
+127,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1963M12,318.35
+128,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1963M12,0.2
+129,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1964M01,319.57
+130,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1964M01,0.26
+131,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1964M02,320.01
+132,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1964M02,0.29
+133,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1964M03,320.74
+134,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1964M03,0.28
+135,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1964M04,321.84
+136,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1964M04,0.14
+137,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1964M05,322.26
+138,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1964M05,0
+139,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1964M06,321.89
+140,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1964M06,0.13
+141,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1964M07,320.44
+142,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1964M07,0.22
+143,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1964M08,318.69
+144,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1964M08,0.29
+145,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1964M09,316.7
+146,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1964M09,0.15
+147,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1964M10,316.87
+148,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1964M10,0.28
+149,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1964M11,317.68
+150,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1964M11,0.19
+151,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1964M12,318.71
+152,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1964M12,0.11
+153,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1965M01,319.44
+154,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1965M01,-0.04
+155,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1965M02,320.44
+156,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1965M02,0.13
+157,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1965M03,320.89
+158,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1965M03,0.05
+159,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1965M04,322.14
+160,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1965M04,0.09
+161,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1965M05,322.17
+162,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1965M05,-0.03
+163,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1965M06,321.87
+164,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1965M06,-0.01
+165,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1965M07,321.21
+166,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1965M07,0.24
+167,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1965M08,318.87
+168,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1965M08,0.06
+169,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1965M09,317.81
+170,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1965M09,0.35
+171,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1965M10,317.3
+172,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1965M10,0.14
+173,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1965M11,318.87
+174,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1965M11,0.37
+175,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1965M12,319.42
+176,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1965M12,0.22
+177,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1966M01,320.62
+178,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1966M01,0.37
+179,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1966M02,321.6
+180,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1966M02,0.36
+181,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1966M03,322.39
+182,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1966M03,0.47
+183,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1966M04,323.7
+184,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1966M04,0.48
+185,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1966M05,324.08
+186,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1966M05,0.59
+187,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1966M06,323.75
+188,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1966M06,0.58
+189,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1966M07,322.38
+190,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1966M07,0.36
+191,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1966M08,320.36
+192,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1966M08,0.47
+193,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1966M09,318.64
+194,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1966M09,0.26
+195,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1966M10,318.1
+196,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1966M10,0.25
+197,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1966M11,319.78
+198,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1966M11,0.29
+199,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1966M12,321.03
+200,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1966M12,0.5
+201,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1967M01,322.33
+202,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1967M01,0.53
+203,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1967M02,322.5
+204,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1967M02,0.28
+205,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1967M03,323.04
+206,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1967M03,0.2
+207,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1967M04,324.42
+208,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1967M04,0.22
+209,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1967M05,325
+210,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1967M05,0.28
+211,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1967M06,324.09
+212,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1967M06,0.11
+213,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1967M07,322.54
+214,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1967M07,0.05
+215,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1967M08,320.92
+216,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1967M08,0.17
+217,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1967M09,319.25
+218,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1967M09,0.19
+219,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1967M10,319.39
+220,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1967M10,0.41
+221,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1967M11,320.73
+222,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1967M11,0.3
+223,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1967M12,321.96
+224,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1967M12,0.29
+225,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1968M01,322.57
+226,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1968M01,0.07
+227,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1968M02,323.15
+228,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1968M02,0.2
+229,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1968M03,323.89
+230,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1968M03,0.26
+231,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1968M04,325.02
+232,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1968M04,0.18
+233,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1968M05,325.57
+234,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1968M05,0.18
+235,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1968M06,325.36
+236,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1968M06,0.39
+237,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1968M07,324.14
+238,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1968M07,0.5
+239,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1968M08,322.11
+240,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1968M08,0.37
+241,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1968M09,320.33
+242,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1968M09,0.34
+243,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1968M10,320.25
+244,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1968M10,0.27
+245,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1968M11,321.32
+246,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1968M11,0.18
+247,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1968M12,322.89
+248,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1968M12,0.29
+249,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1969M01,324
+250,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1969M01,0.44
+251,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1969M02,324.42
+252,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1969M02,0.39
+253,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1969M03,325.63
+254,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1969M03,0.54
+255,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1969M04,326.66
+256,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1969M04,0.5
+257,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1969M05,327.38
+258,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1969M05,0.56
+259,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1969M06,326.71
+260,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1969M06,0.41
+261,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1969M07,325.88
+262,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1969M07,0.54
+263,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1969M08,323.66
+264,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1969M08,0.48
+265,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1969M09,322.38
+266,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1969M09,0.64
+267,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1969M10,321.78
+268,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1969M10,0.48
+269,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1969M11,322.86
+270,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1969M11,0.48
+271,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1969M12,324.12
+272,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1969M12,0.38
+273,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1970M01,325.06
+274,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1970M01,0.33
+275,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1970M02,325.98
+276,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1970M02,0.48
+277,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1970M03,326.93
+278,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1970M03,0.4
+279,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1970M04,328.13
+280,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1970M04,0.45
+281,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1970M05,328.08
+282,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1970M05,0.21
+283,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1970M06,327.67
+284,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1970M06,0.29
+285,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1970M07,326.34
+286,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1970M07,0.14
+287,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1970M08,324.69
+288,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1970M08,0.32
+289,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1970M09,323.1
+290,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1970M09,0.22
+291,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1970M10,323.06
+292,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1970M10,0.4
+293,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1970M11,324.01
+294,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1970M11,0.36
+295,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1970M12,325.13
+296,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1970M12,0.31
+297,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1971M01,326.17
+298,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1971M01,0.34
+299,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1971M02,326.68
+300,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1971M02,0.21
+301,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1971M03,327.17
+302,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1971M03,0.07
+303,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1971M04,327.79
+304,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1971M04,-0.1
+305,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1971M05,328.93
+306,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1971M05,0.26
+307,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1971M06,328.57
+308,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1971M06,0.27
+309,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1971M07,327.36
+310,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1971M07,0.31
+311,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1971M08,325.43
+312,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1971M08,0.23
+313,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1971M09,323.36
+314,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1971M09,0.08
+315,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1971M10,323.56
+316,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1971M10,0.15
+317,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1971M11,324.8
+318,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1971M11,0.24
+319,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1971M12,326.01
+320,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1971M12,0.27
+321,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1972M01,326.77
+322,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1972M01,0.18
+323,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1972M02,327.63
+324,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1972M02,0.29
+325,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1972M03,327.75
+326,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1972M03,0.18
+327,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1972M04,329.72
+328,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1972M04,0.59
+329,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1972M05,330.07
+330,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1972M05,0.35
+331,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1972M06,329.09
+332,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1972M06,0.16
+333,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1972M07,328.04
+334,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1972M07,0.21
+335,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1972M08,326.32
+336,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1972M08,0.27
+337,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1972M09,324.84
+338,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1972M09,0.46
+339,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1972M10,325.2
+340,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1972M10,0.51
+341,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1972M11,326.5
+342,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1972M11,0.52
+343,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1972M12,327.55
+344,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1972M12,0.47
+345,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1973M01,328.55
+346,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1973M01,0.54
+347,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1973M02,329.56
+348,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1973M02,0.59
+349,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1973M03,330.3
+350,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1973M03,0.78
+351,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1973M04,331.5
+352,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1973M04,0.54
+353,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1973M05,332.48
+354,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1973M05,0.73
+355,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1973M06,332.07
+356,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1973M06,0.91
+357,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1973M07,330.87
+358,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1973M07,0.86
+359,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1973M08,329.31
+360,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1973M08,0.92
+361,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1973M09,327.51
+362,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1973M09,0.82
+363,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1973M10,327.18
+364,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1973M10,0.61
+365,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1973M11,328.16
+366,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1973M11,0.51
+367,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1973M12,328.64
+368,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1973M12,0.33
+369,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1974M01,329.35
+370,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1974M01,0.24
+371,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1974M02,330.71
+372,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1974M02,0.35
+373,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1974M03,331.48
+374,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1974M03,0.36
+375,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1974M04,332.65
+376,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1974M04,0.35
+377,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1974M05,333.18
+378,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1974M05,0.21
+379,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1974M06,332.2
+380,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1974M06,0.04
+381,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1974M07,331.07
+382,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1974M07,0.06
+383,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1974M08,329.15
+384,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1974M08,-0.05
+385,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1974M09,327.33
+386,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1974M09,-0.05
+387,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1974M10,327.28
+388,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1974M10,0.03
+389,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1974M11,328.31
+390,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1974M11,0.05
+391,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1974M12,329.58
+392,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1974M12,0.29
+393,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1975M01,330.73
+394,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1975M01,0.42
+395,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1975M02,331.46
+396,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1975M02,0.23
+397,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1975M03,331.94
+398,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1975M03,0.14
+399,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1975M04,333.11
+400,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1975M04,0.14
+401,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1975M05,333.95
+402,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1975M05,0.23
+403,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1975M06,333.42
+404,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1975M06,0.37
+405,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1975M07,331.97
+406,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1975M07,0.27
+407,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1975M08,329.95
+408,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1975M08,0.24
+409,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1975M09,328.5
+410,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1975M09,0.36
+411,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1975M10,328.36
+412,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1975M10,0.33
+413,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1975M11,329.38
+414,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1975M11,0.33
+415,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1975M12,330.78
+416,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1975M12,0.36
+417,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1976M01,331.56
+418,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1976M01,0.25
+419,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1976M02,332.74
+420,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1976M02,0.39
+421,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1976M03,333.36
+422,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1976M03,0.43
+423,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1976M04,334.74
+424,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1976M04,0.49
+425,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1976M05,334.72
+426,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1976M05,0.23
+427,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1976M06,333.98
+428,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1976M06,0.17
+429,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1976M07,333.08
+430,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1976M07,0.33
+431,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1976M08,330.68
+432,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1976M08,0.22
+433,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1976M09,328.96
+434,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1976M09,0.14
+435,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1976M10,328.72
+436,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1976M10,0.11
+437,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1976M11,330.16
+438,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1976M11,0.24
+439,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1976M12,331.62
+440,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1976M12,0.25
+441,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1977M01,332.68
+442,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1977M01,0.34
+443,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1977M02,333.17
+444,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1977M02,0.13
+445,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1977M03,334.96
+446,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1977M03,0.48
+447,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1977M04,336.14
+448,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1977M04,0.42
+449,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1977M05,336.93
+450,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1977M05,0.66
+451,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1977M06,336.17
+452,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1977M06,0.66
+453,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1977M07,334.89
+454,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1977M07,0.54
+455,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1977M08,332.56
+456,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1977M08,0.57
+457,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1977M09,331.29
+458,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1977M09,0.71
+459,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1977M10,331.28
+460,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1977M10,0.78
+461,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1977M11,332.46
+462,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1977M11,0.7
+463,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1977M12,333.6
+464,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1977M12,0.6
+465,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1978M01,334.94
+466,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1978M01,0.68
+467,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1978M02,335.26
+468,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1978M02,0.63
+469,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1978M03,336.66
+470,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1978M03,0.51
+471,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1978M04,337.69
+472,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1978M04,0.46
+473,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1978M05,338.02
+474,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1978M05,0.32
+475,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1978M06,338.01
+476,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1978M06,0.55
+477,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1978M07,336.5
+478,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1978M07,0.48
+479,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1978M08,334.42
+480,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1978M08,0.56
+481,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1978M09,332.36
+482,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1978M09,0.32
+483,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1978M10,332.45
+484,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1978M10,0.35
+485,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1978M11,333.76
+486,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1978M11,0.39
+487,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1978M12,334.91
+488,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1978M12,0.39
+489,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1979M01,336.14
+490,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1979M01,0.36
+491,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1979M02,336.69
+492,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1979M02,0.43
+493,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1979M03,338.27
+494,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1979M03,0.48
+495,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1979M04,338.82
+496,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1979M04,0.33
+497,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1979M05,339.24
+498,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1979M05,0.36
+499,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1979M06,339.26
+500,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1979M06,0.37
+501,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1979M07,337.54
+502,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1979M07,0.31
+503,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1979M08,335.72
+504,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1979M08,0.39
+505,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1979M09,333.97
+506,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1979M09,0.48
+507,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1979M10,334.24
+508,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1979M10,0.54
+509,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1979M11,335.32
+510,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1979M11,0.47
+511,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1979M12,336.81
+512,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1979M12,0.57
+513,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1980M01,337.9
+514,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1980M01,0.52
+515,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1980M02,338.34
+516,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1980M02,0.49
+517,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1980M03,340.07
+518,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1980M03,0.53
+519,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1980M04,340.93
+520,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1980M04,0.62
+521,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1980M05,341.45
+522,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1980M05,0.65
+523,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1980M06,341.36
+524,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1980M06,0.62
+525,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1980M07,339.45
+526,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1980M07,0.57
+527,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1980M08,337.67
+528,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1980M08,0.58
+529,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1980M09,336.25
+530,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1980M09,0.68
+531,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1980M10,336.14
+532,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1980M10,0.57
+533,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1980M11,337.3
+534,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1980M11,0.59
+535,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1980M12,338.29
+536,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1980M12,0.44
+537,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1981M01,339.29
+538,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1981M01,0.41
+539,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1981M02,340.55
+540,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1981M02,0.65
+541,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1981M03,341.63
+542,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1981M03,0.46
+543,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1981M04,342.6
+544,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1981M04,0.49
+545,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1981M05,343.04
+546,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1981M05,0.47
+547,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1981M06,342.54
+548,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1981M06,0.35
+549,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1981M07,340.82
+550,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1981M07,0.4
+551,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1981M08,338.48
+552,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1981M08,0.24
+553,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1981M09,336.95
+554,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1981M09,0.21
+555,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1981M10,337.05
+556,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1981M10,0.27
+557,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1981M11,338.58
+558,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1981M11,0.38
+559,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1981M12,339.91
+560,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1981M12,0.48
+561,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1982M01,340.93
+562,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1982M01,0.48
+563,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1982M02,341.76
+564,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1982M02,0.36
+565,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1982M03,342.78
+566,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1982M03,0.34
+567,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1982M04,343.96
+568,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1982M04,0.4
+569,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1982M05,344.77
+570,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1982M05,0.5
+571,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1982M06,343.88
+572,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1982M06,0.39
+573,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1982M07,342.42
+574,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1982M07,0.47
+575,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1982M08,340.24
+576,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1982M08,0.52
+577,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1982M09,338.38
+578,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1982M09,0.42
+579,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1982M10,338.41
+580,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1982M10,0.4
+581,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1982M11,339.44
+582,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1982M11,0.25
+583,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1982M12,340.78
+584,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1982M12,0.26
+585,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1983M01,341.57
+586,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1983M01,0.19
+587,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1983M02,342.79
+588,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1983M02,0.3
+589,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1983M03,343.37
+590,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1983M03,0.17
+591,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1983M04,345.39
+592,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1983M04,0.42
+593,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1983M05,346.14
+594,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1983M05,0.4
+595,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1983M06,345.76
+596,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1983M06,0.55
+597,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1983M07,344.32
+598,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1983M07,0.55
+599,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1983M08,342.51
+600,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1983M08,0.67
+601,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1983M09,340.46
+602,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1983M09,0.61
+603,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1983M10,340.53
+604,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1983M10,0.63
+605,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1983M11,341.79
+606,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1983M11,0.69
+607,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1983M12,343.2
+608,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1983M12,0.71
+609,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1984M01,344.21
+610,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1984M01,0.77
+611,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1984M02,344.92
+612,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1984M02,0.62
+613,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1984M03,345.68
+614,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1984M03,0.67
+615,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1984M04,347.38
+616,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1984M04,0.58
+617,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1984M05,347.78
+618,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1984M05,0.47
+619,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1984M06,347.16
+620,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1984M06,0.4
+621,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1984M07,345.79
+622,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1984M07,0.43
+623,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1984M08,343.74
+624,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1984M08,0.36
+625,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1984M09,341.59
+626,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1984M09,0.33
+627,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1984M10,341.86
+628,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1984M10,0.39
+629,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1984M11,343.31
+630,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1984M11,0.44
+631,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1984M12,345
+632,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1984M12,0.52
+633,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1985M01,345.48
+634,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1985M01,0.37
+635,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1985M02,346.42
+636,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1985M02,0.43
+637,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1985M03,347.91
+638,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1985M03,0.65
+639,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1985M04,348.66
+640,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1985M04,0.37
+641,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1985M05,349.28
+642,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1985M05,0.43
+643,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1985M06,348.65
+644,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1985M06,0.43
+645,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1985M07,346.9
+646,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1985M07,0.32
+647,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1985M08,345.26
+648,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1985M08,0.44
+649,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1985M09,343.47
+650,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1985M09,0.55
+651,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1985M10,343.35
+652,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1985M10,0.44
+653,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1985M11,344.73
+654,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1985M11,0.41
+655,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1985M12,346.12
+656,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1985M12,0.32
+657,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1986M01,346.78
+658,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1986M01,0.38
+659,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1986M02,347.48
+660,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1986M02,0.31
+661,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1986M03,348.25
+662,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1986M03,0.1
+663,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1986M04,349.86
+664,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1986M04,0.34
+665,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1986M05,350.52
+666,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1986M05,0.36
+667,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1986M06,349.98
+668,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1986M06,0.38
+669,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1986M07,348.25
+670,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1986M07,0.39
+671,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1986M08,346.17
+672,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1986M08,0.26
+673,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1986M09,345.48
+674,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1986M09,0.59
+675,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1986M10,344.82
+676,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1986M10,0.43
+677,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1986M11,346.22
+678,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1986M11,0.43
+679,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1986M12,347.49
+680,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1986M12,0.4
+681,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1987M01,348.73
+682,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1987M01,0.56
+683,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1987M02,348.92
+684,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1987M02,0.41
+685,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1987M03,349.81
+686,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1987M03,0.45
+687,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1987M04,351.4
+688,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1987M04,0.44
+689,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1987M05,352.15
+690,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1987M05,0.47
+691,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1987M06,351.58
+692,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1987M06,0.46
+693,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1987M07,350.21
+694,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1987M07,0.56
+695,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1987M08,348.2
+696,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1987M08,0.59
+697,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1987M09,346.66
+698,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1987M09,0.34
+699,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1987M10,346.72
+700,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1987M10,0.55
+701,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1987M11,348.08
+702,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1987M11,0.54
+703,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1987M12,349.28
+704,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1987M12,0.52
+705,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1988M01,350.51
+706,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1988M01,0.51
+707,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1988M02,351.7
+708,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1988M02,0.8
+709,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1988M03,352.5
+710,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1988M03,0.77
+711,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1988M04,353.67
+712,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1988M04,0.65
+713,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1988M05,354.35
+714,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1988M05,0.62
+715,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1988M06,353.88
+716,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1988M06,0.65
+717,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1988M07,352.8
+718,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1988M07,0.74
+719,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1988M08,350.49
+720,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1988M08,0.66
+721,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1988M09,348.97
+722,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1988M09,0.67
+723,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1988M10,349.37
+724,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1988M10,0.76
+725,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1988M11,350.42
+726,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1988M11,0.67
+727,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1988M12,351.62
+728,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1988M12,0.67
+729,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1989M01,353.07
+730,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1989M01,0.73
+731,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1989M02,353.43
+732,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1989M02,0.49
+733,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1989M03,354.08
+734,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1989M03,0.45
+735,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1989M04,355.72
+736,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1989M04,0.58
+737,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1989M05,355.95
+738,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1989M05,0.45
+739,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1989M06,355.44
+740,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1989M06,0.44
+741,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1989M07,354.05
+742,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1989M07,0.35
+743,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1989M08,351.84
+744,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1989M08,0.39
+745,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1989M09,350.09
+746,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1989M09,0.32
+747,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1989M10,350.33
+748,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1989M10,0.27
+749,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1989M11,351.55
+750,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1989M11,0.32
+751,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1989M12,352.91
+752,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1989M12,0.37
+753,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1990M01,353.86
+754,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1990M01,0.22
+755,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1990M02,355.1
+756,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1990M02,0.47
+757,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1990M03,355.75
+758,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1990M03,0.47
+759,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1990M04,356.38
+760,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1990M04,0.19
+761,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1990M05,357.38
+762,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1990M05,0.4
+763,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1990M06,356.39
+764,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1990M06,0.27
+765,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1990M07,354.89
+766,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1990M07,0.24
+767,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1990M08,353.06
+768,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1990M08,0.35
+769,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1990M09,351.38
+770,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1990M09,0.37
+771,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1990M10,351.69
+772,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1990M10,0.39
+773,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1990M11,353.14
+774,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1990M11,0.45
+775,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1990M12,354.41
+776,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1990M12,0.43
+777,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1991M01,354.93
+778,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1991M01,0.3
+779,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1991M02,355.82
+780,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1991M02,0.2
+781,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1991M03,357.33
+782,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1991M03,0.44
+783,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1991M04,358.77
+784,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1991M04,0.67
+785,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1991M05,359.23
+786,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1991M05,0.52
+787,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1991M06,358.23
+788,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1991M06,0.52
+789,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1991M07,356.3
+790,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1991M07,0.4
+791,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1991M08,353.97
+792,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1991M08,0.26
+793,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1991M09,352.34
+794,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1991M09,0.27
+795,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1991M10,352.43
+796,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1991M10,0.21
+797,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1991M11,353.89
+798,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1991M11,0.21
+799,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1991M12,355.21
+800,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1991M12,0.23
+801,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1992M01,356.34
+802,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1992M01,0.4
+803,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1992M02,357.21
+804,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1992M02,0.39
+805,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1992M03,357.97
+806,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1992M03,0.18
+807,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1992M04,359.22
+808,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1992M04,0.13
+809,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1992M05,359.71
+810,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1992M05,0.13
+811,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1992M06,359.44
+812,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1992M06,0.34
+813,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1992M07,357.15
+814,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1992M07,0.24
+815,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1992M08,354.99
+816,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1992M08,0.29
+817,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1992M09,353.01
+818,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1992M09,0.19
+819,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1992M10,353.41
+820,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1992M10,0.28
+821,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1992M11,354.42
+822,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1992M11,0.15
+823,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1992M12,355.68
+824,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1992M12,0.13
+825,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1993M01,357.1
+826,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1993M01,0.21
+827,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1993M02,357.42
+828,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1993M02,0.06
+829,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1993M03,358.59
+830,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1993M03,0.17
+831,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1993M04,359.39
+832,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1993M04,0.05
+833,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1993M05,360.3
+834,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1993M05,0.16
+835,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1993M06,359.64
+836,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1993M06,0.06
+837,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1993M07,357.45
+838,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1993M07,0.08
+839,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1993M08,355.76
+840,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1993M08,0.22
+841,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1993M09,354.14
+842,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1993M09,0.32
+843,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1993M10,354.23
+844,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1993M10,0.23
+845,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1993M11,355.53
+846,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1993M11,0.31
+847,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1993M12,357.03
+848,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1993M12,0.38
+849,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1994M01,358.36
+850,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1994M01,0.35
+851,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1994M02,359.04
+852,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1994M02,0.45
+853,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1994M03,360.11
+854,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1994M03,0.42
+855,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1994M04,361.36
+856,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1994M04,0.55
+857,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1994M05,361.78
+858,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1994M05,0.41
+859,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1994M06,360.94
+860,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1994M06,0.36
+861,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1994M07,359.51
+862,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1994M07,0.58
+863,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1994M08,357.59
+864,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1994M08,0.51
+865,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1994M09,355.86
+866,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1994M09,0.49
+867,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1994M10,356.21
+868,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1994M10,0.56
+869,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1994M11,357.65
+870,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1994M11,0.6
+871,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1994M12,359.1
+872,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1994M12,0.58
+873,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1995M01,360.04
+874,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1995M01,0.47
+875,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1995M02,361
+876,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1995M02,0.55
+877,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1995M03,361.98
+878,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1995M03,0.52
+879,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1995M04,363.44
+880,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1995M04,0.58
+881,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1995M05,363.83
+882,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1995M05,0.57
+883,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1995M06,363.33
+884,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1995M06,0.66
+885,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1995M07,361.78
+886,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1995M07,0.63
+887,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1995M08,359.33
+888,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1995M08,0.49
+889,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1995M09,358.32
+890,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1995M09,0.69
+891,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1995M10,358.14
+892,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1995M10,0.54
+893,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1995M11,359.61
+894,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1995M11,0.55
+895,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1995M12,360.82
+896,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1995M12,0.48
+897,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1996M01,362.2
+898,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1996M01,0.6
+899,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1996M02,363.36
+900,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1996M02,0.65
+901,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1996M03,364.28
+902,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1996M03,0.64
+903,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1996M04,364.69
+904,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1996M04,0.34
+905,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1996M05,365.25
+906,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1996M05,0.39
+907,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1996M06,365.06
+908,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1996M06,0.48
+909,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1996M07,363.69
+910,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1996M07,0.53
+911,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1996M08,361.55
+912,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1996M08,0.62
+913,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1996M09,359.69
+914,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1996M09,0.38
+915,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1996M10,359.72
+916,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1996M10,0.44
+917,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1996M11,361.04
+918,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1996M11,0.4
+919,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1996M12,362.39
+920,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1996M12,0.44
+921,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1997M01,363.24
+922,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1997M01,0.29
+923,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1997M02,364.21
+924,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1997M02,0.23
+925,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1997M03,364.65
+926,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1997M03,0.1
+927,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1997M04,366.48
+928,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1997M04,0.49
+929,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1997M05,366.77
+930,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1997M05,0.42
+931,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1997M06,365.73
+932,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1997M06,0.18
+933,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1997M07,364.46
+934,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1997M07,0.21
+935,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1997M08,362.4
+936,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1997M08,0.24
+937,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1997M09,360.44
+938,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1997M09,0.21
+939,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1997M10,360.98
+940,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1997M10,0.35
+941,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1997M11,362.65
+942,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1997M11,0.45
+943,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1997M12,364.51
+944,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1997M12,0.59
+945,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1998M01,365.39
+946,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1998M01,0.59
+947,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1998M02,366.1
+948,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1998M02,0.52
+949,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1998M03,367.36
+950,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1998M03,0.74
+951,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1998M04,368.79
+952,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1998M04,0.63
+953,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1998M05,369.56
+954,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1998M05,0.76
+955,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1998M06,369.13
+956,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1998M06,0.93
+957,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1998M07,367.98
+958,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1998M07,0.97
+959,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1998M08,366.1
+960,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1998M08,1.02
+961,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1998M09,364.16
+962,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1998M09,1.03
+963,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1998M10,364.54
+964,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1998M10,0.99
+965,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1998M11,365.67
+966,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1998M11,0.83
+967,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1998M12,367.3
+968,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1998M12,0.77
+969,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1999M01,368.35
+970,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1999M01,0.81
+971,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1999M02,369.28
+972,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1999M02,0.87
+973,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1999M03,369.84
+974,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1999M03,0.68
+975,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1999M04,371.15
+976,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1999M04,0.64
+977,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1999M05,371.12
+978,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1999M05,0.42
+979,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1999M06,370.46
+980,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1999M06,0.36
+981,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1999M07,369.61
+982,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1999M07,0.44
+983,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1999M08,367.06
+984,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1999M08,0.26
+985,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1999M09,364.95
+986,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1999M09,0.22
+987,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1999M10,365.52
+988,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1999M10,0.27
+989,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1999M11,366.88
+990,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1999M11,0.33
+991,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,1999M12,368.26
+992,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,1999M12,0.26
+993,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2000M01,369.45
+994,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2000M01,0.3
+995,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2000M02,369.71
+996,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2000M02,0.12
+997,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2000M03,370.75
+998,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2000M03,0.25
+999,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2000M04,371.98
+1000,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2000M04,0.22
+1001,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2000M05,371.75
+1002,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2000M05,0.17
+1003,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2000M06,371.87
+1004,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2000M06,0.38
+1005,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2000M07,370.02
+1006,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2000M07,0.11
+1007,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2000M08,368.27
+1008,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2000M08,0.33
+1009,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2000M09,367.15
+1010,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2000M09,0.6
+1011,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2000M10,367.18
+1012,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2000M10,0.45
+1013,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2000M11,368.53
+1014,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2000M11,0.45
+1015,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2000M12,369.83
+1016,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2000M12,0.43
+1017,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2001M01,370.76
+1018,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2001M01,0.35
+1019,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2001M02,371.69
+1020,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2001M02,0.54
+1021,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2001M03,372.63
+1022,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2001M03,0.51
+1023,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2001M04,373.55
+1024,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2001M04,0.42
+1025,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2001M05,374.03
+1026,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2001M05,0.61
+1027,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2001M06,373.4
+1028,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2001M06,0.41
+1029,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2001M07,371.68
+1030,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2001M07,0.45
+1031,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2001M08,369.78
+1032,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2001M08,0.41
+1033,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2001M09,368.34
+1034,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2001M09,0.32
+1035,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2001M10,368.61
+1036,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2001M10,0.39
+1037,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2001M11,369.94
+1038,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2001M11,0.38
+1039,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2001M12,371.42
+1040,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2001M12,0.43
+1041,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2002M01,372.7
+1042,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2002M01,0.52
+1043,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2002M02,373.37
+1044,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2002M02,0.45
+1045,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2002M03,374.3
+1046,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2002M03,0.45
+1047,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2002M04,375.19
+1048,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2002M04,0.44
+1049,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2002M05,375.93
+1050,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2002M05,0.51
+1051,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2002M06,375.69
+1052,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2002M06,0.61
+1053,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2002M07,374.16
+1054,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2002M07,0.67
+1055,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2002M08,372.03
+1056,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2002M08,0.61
+1057,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2002M09,370.92
+1058,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2002M09,0.7
+1059,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2002M10,370.73
+1060,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2002M10,0.58
+1061,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2002M11,372.43
+1062,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2002M11,0.67
+1063,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2002M12,373.98
+1064,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2002M12,0.69
+1065,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2003M01,375.07
+1066,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2003M01,0.64
+1067,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2003M02,375.82
+1068,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2003M02,0.66
+1069,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2003M03,376.64
+1070,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2003M03,0.63
+1071,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2003M04,377.92
+1072,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2003M04,0.73
+1073,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2003M05,378.78
+1074,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2003M05,0.76
+1075,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2003M06,378.46
+1076,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2003M06,0.74
+1077,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2003M07,376.88
+1078,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2003M07,0.73
+1079,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2003M08,374.57
+1080,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2003M08,0.68
+1081,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2003M09,373.34
+1082,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2003M09,0.65
+1083,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2003M10,373.31
+1084,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2003M10,0.7
+1085,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2003M11,374.84
+1086,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2003M11,0.65
+1087,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2003M12,376.17
+1088,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2003M12,0.59
+1089,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2004M01,377.17
+1090,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2004M01,0.56
+1091,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2004M02,378.05
+1092,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2004M02,0.59
+1093,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2004M03,379.06
+1094,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2004M03,0.64
+1095,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2004M04,380.54
+1096,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2004M04,0.69
+1097,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2004M05,380.8
+1098,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2004M05,0.53
+1099,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2004M06,379.87
+1100,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2004M06,0.37
+1101,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2004M07,377.65
+1102,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2004M07,0.2
+1103,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2004M08,376.17
+1104,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2004M08,0.43
+1105,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2004M09,374.43
+1106,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2004M09,0.29
+1107,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2004M10,374.63
+1108,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2004M10,0.35
+1109,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2004M11,376.33
+1110,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2004M11,0.4
+1111,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2004M12,377.68
+1112,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2004M12,0.4
+1113,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2005M01,378.63
+1114,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2005M01,0.39
+1115,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2005M02,379.91
+1116,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2005M02,0.49
+1117,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2005M03,380.95
+1118,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2005M03,0.5
+1119,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2005M04,382.48
+1120,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2005M04,0.51
+1121,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2005M05,382.64
+1122,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2005M05,0.48
+1123,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2005M06,382.4
+1124,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2005M06,0.67
+1125,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2005M07,380.93
+1126,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2005M07,0.87
+1127,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2005M08,378.93
+1128,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2005M08,0.73
+1129,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2005M09,376.89
+1130,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2005M09,0.66
+1131,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2005M10,377.19
+1132,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2005M10,0.68
+1133,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2005M11,378.54
+1134,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2005M11,0.59
+1135,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2005M12,380.31
+1136,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2005M12,0.7
+1137,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2006M01,381.58
+1138,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2006M01,0.78
+1139,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2006M02,382.4
+1140,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2006M02,0.66
+1141,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2006M03,382.86
+1142,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2006M03,0.5
+1143,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2006M04,384.8
+1144,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2006M04,0.61
+1145,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2006M05,385.22
+1146,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2006M05,0.67
+1147,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2006M06,384.24
+1148,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2006M06,0.48
+1149,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2006M07,382.65
+1150,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2006M07,0.45
+1151,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2006M08,380.6
+1152,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2006M08,0.44
+1153,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2006M09,379.04
+1154,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2006M09,0.57
+1155,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2006M10,379.33
+1156,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2006M10,0.57
+1157,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2006M11,380.35
+1158,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2006M11,0.48
+1159,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2006M12,382.02
+1160,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2006M12,0.45
+1161,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2007M01,383.1
+1162,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2007M01,0.4
+1163,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2007M02,384.12
+1164,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2007M02,0.45
+1165,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2007M03,384.81
+1166,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2007M03,0.51
+1167,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2007M04,386.73
+1168,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2007M04,0.5
+1169,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2007M05,386.78
+1170,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2007M05,0.4
+1171,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2007M06,386.33
+1172,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2007M06,0.54
+1173,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2007M07,384.73
+1174,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2007M07,0.54
+1175,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2007M08,382.24
+1176,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2007M08,0.43
+1177,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2007M09,381.2
+1178,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2007M09,0.57
+1179,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2007M10,381.37
+1180,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2007M10,0.54
+1181,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2007M11,382.7
+1182,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2007M11,0.62
+1183,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2007M12,384.19
+1184,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2007M12,0.57
+1185,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2008M01,385.78
+1186,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2008M01,0.7
+1187,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2008M02,386.06
+1188,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2008M02,0.51
+1189,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2008M03,386.28
+1190,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2008M03,0.38
+1191,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2008M04,387.34
+1192,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2008M04,0.16
+1193,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2008M05,388.78
+1194,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2008M05,0.52
+1195,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2008M06,387.99
+1196,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2008M06,0.43
+1197,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2008M07,386.61
+1198,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2008M07,0.49
+1199,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2008M08,384.32
+1200,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2008M08,0.54
+1201,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2008M09,383.41
+1202,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2008M09,0.58
+1203,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2008M10,383.21
+1204,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2008M10,0.48
+1205,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2008M11,384.41
+1206,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2008M11,0.45
+1207,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2008M12,385.79
+1208,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2008M12,0.42
+1209,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2009M01,387.17
+1210,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2009M01,0.36
+1211,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2009M02,387.7
+1212,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2009M02,0.42
+1213,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2009M03,389.04
+1214,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2009M03,0.71
+1215,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2009M04,389.76
+1216,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2009M04,0.62
+1217,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2009M05,390.36
+1218,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2009M05,0.41
+1219,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2009M06,389.7
+1220,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2009M06,0.44
+1221,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2009M07,388.24
+1222,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2009M07,0.42
+1223,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2009M08,386.29
+1224,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2009M08,0.51
+1225,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2009M09,384.95
+1226,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2009M09,0.4
+1227,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2009M10,384.64
+1228,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2009M10,0.37
+1229,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2009M11,386.23
+1230,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2009M11,0.47
+1231,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2009M12,387.63
+1232,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2009M12,0.48
+1233,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2010M01,388.91
+1234,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2010M01,0.45
+1235,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2010M02,390.41
+1236,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2010M02,0.7
+1237,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2010M03,391.37
+1238,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2010M03,0.6
+1239,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2010M04,392.67
+1240,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2010M04,0.75
+1241,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2010M05,393.21
+1242,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2010M05,0.73
+1243,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2010M06,392.38
+1244,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2010M06,0.69
+1245,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2010M07,390.41
+1246,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2010M07,0.56
+1247,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2010M08,388.54
+1248,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2010M08,0.58
+1249,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2010M09,387.03
+1250,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2010M09,0.54
+1251,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2010M10,387.43
+1252,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2010M10,0.73
+1253,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2010M11,388.87
+1254,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2010M11,0.68
+1255,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2010M12,389.99
+1256,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2010M12,0.61
+1257,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2011M01,391.5
+1258,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2011M01,0.67
+1259,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2011M02,392.05
+1260,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2011M02,0.42
+1261,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2011M03,392.8
+1262,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2011M03,0.37
+1263,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2011M04,393.44
+1264,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2011M04,0.2
+1265,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2011M05,394.41
+1266,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2011M05,0.31
+1267,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2011M06,393.95
+1268,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2011M06,0.4
+1269,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2011M07,392.72
+1270,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2011M07,0.59
+1271,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2011M08,390.33
+1272,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2011M08,0.46
+1273,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2011M09,389.28
+1274,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2011M09,0.58
+1275,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2011M10,389.19
+1276,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2011M10,0.45
+1277,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2011M11,390.48
+1278,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2011M11,0.41
+1279,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2011M12,392.06
+1280,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2011M12,0.53
+1281,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2012M01,393.31
+1282,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2012M01,0.46
+1283,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2012M02,394.04
+1284,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2012M02,0.51
+1285,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2012M03,394.59
+1286,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2012M03,0.46
+1287,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2012M04,396.38
+1288,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2012M04,0.75
+1289,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2012M05,396.93
+1290,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2012M05,0.64
+1291,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2012M06,395.91
+1292,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2012M06,0.5
+1293,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2012M07,394.56
+1294,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2012M07,0.47
+1295,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2012M08,392.59
+1296,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2012M08,0.58
+1297,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2012M09,391.32
+1298,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2012M09,0.52
+1299,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2012M10,391.27
+1300,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2012M10,0.53
+1301,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2012M11,393.2
+1302,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2012M11,0.7
+1303,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2012M12,394.57
+1304,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2012M12,0.64
+1305,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2013M01,395.78
+1306,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2013M01,0.63
+1307,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2013M02,397.03
+1308,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2013M02,0.76
+1309,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2013M03,397.66
+1310,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2013M03,0.78
+1311,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2013M04,398.64
+1312,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2013M04,0.57
+1313,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2013M05,400.02
+1314,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2013M05,0.78
+1315,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2013M06,398.81
+1316,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2013M06,0.73
+1317,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2013M07,397.51
+1318,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2013M07,0.75
+1319,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2013M08,395.39
+1320,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2013M08,0.71
+1321,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2013M09,393.72
+1322,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2013M09,0.61
+1323,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2013M10,393.9
+1324,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2013M10,0.67
+1325,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2013M11,395.36
+1326,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2013M11,0.55
+1327,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2013M12,397.03
+1328,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2013M12,0.62
+1329,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2014M01,398.04
+1330,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2014M01,0.57
+1331,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2014M02,398.27
+1332,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2014M02,0.31
+1333,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2014M03,399.91
+1334,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2014M03,0.57
+1335,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2014M04,401.51
+1336,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2014M04,0.72
+1337,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2014M05,401.96
+1338,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2014M05,0.48
+1339,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2014M06,401.43
+1340,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2014M06,0.66
+1341,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2014M07,399.27
+1342,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2014M07,0.44
+1343,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2014M08,397.18
+1344,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2014M08,0.45
+1345,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2014M09,395.54
+1346,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2014M09,0.46
+1347,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2014M10,396.16
+1348,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2014M10,0.57
+1349,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2014M11,397.4
+1350,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2014M11,0.52
+1351,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2014M12,399.08
+1352,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2014M12,0.52
+1353,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2015M01,400.18
+1354,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2015M01,0.54
+1355,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2015M02,400.55
+1356,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2015M02,0.57
+1357,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2015M03,401.74
+1358,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2015M03,0.46
+1359,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2015M04,403.34
+1360,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2015M04,0.46
+1361,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2015M05,404.15
+1362,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2015M05,0.54
+1363,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2015M06,402.97
+1364,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2015M06,0.38
+1365,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2015M07,401.46
+1366,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2015M07,0.55
+1367,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2015M08,399.11
+1368,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2015M08,0.49
+1369,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2015M09,397.82
+1370,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2015M09,0.58
+1371,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2015M10,398.49
+1372,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2015M10,0.59
+1373,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2015M11,400.27
+1374,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2015M11,0.72
+1375,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2015M12,402.06
+1376,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2015M12,0.75
+1377,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2016M01,402.73
+1378,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2016M01,0.64
+1379,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2016M02,404.25
+1380,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2016M02,0.92
+1381,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2016M03,405.06
+1382,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2016M03,0.83
+1383,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2016M04,407.6
+1384,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2016M04,1.06
+1385,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2016M05,407.9
+1386,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2016M05,0.93
+1387,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2016M06,406.99
+1388,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2016M06,1
+1389,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2016M07,404.59
+1390,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2016M07,0.78
+1391,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2016M08,402.45
+1392,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2016M08,0.84
+1393,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2016M09,401.23
+1394,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2016M09,0.86
+1395,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2016M10,401.79
+1396,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2016M10,0.83
+1397,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2016M11,403.72
+1398,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2016M11,0.86
+1399,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2016M12,404.64
+1400,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2016M12,0.64
+1401,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2017M01,406.36
+1402,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2017M01,0.9
+1403,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2017M02,406.66
+1404,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2017M02,0.6
+1405,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2017M03,407.54
+1406,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2017M03,0.61
+1407,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2017M04,409.22
+1408,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2017M04,0.4
+1409,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2017M05,409.89
+1410,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2017M05,0.49
+1411,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2017M06,409.08
+1412,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2017M06,0.51
+1413,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2017M07,407.33
+1414,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2017M07,0.68
+1415,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2017M08,405.32
+1416,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2017M08,0.71
+1417,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2017M09,403.57
+1418,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2017M09,0.58
+1419,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2017M10,403.82
+1420,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2017M10,0.51
+1421,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2017M11,405.31
+1422,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2017M11,0.39
+1423,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2017M12,407
+1424,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2017M12,0.58
+1425,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2018M01,408.15
+1426,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2018M01,0.44
+1427,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2018M02,408.52
+1428,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2018M02,0.46
+1429,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2018M03,409.59
+1430,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2018M03,0.5
+1431,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2018M04,410.45
+1432,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2018M04,0.3
+1433,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2018M05,411.44
+1434,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2018M05,0.38
+1435,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2018M06,410.99
+1436,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2018M06,0.47
+1437,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2018M07,408.9
+1438,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2018M07,0.39
+1439,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2018M08,407.16
+1440,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2018M08,0.45
+1441,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2018M09,405.71
+1442,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2018M09,0.53
+1443,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2018M10,406.19
+1444,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2018M10,0.59
+1445,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2018M11,408.21
+1446,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2018M11,0.72
+1447,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2018M12,409.27
+1448,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2018M12,0.56
+1449,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2019M01,411.03
+1450,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2019M01,0.71
+1451,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2019M02,411.96
+1452,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2019M02,0.84
+1453,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2019M03,412.18
+1454,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2019M03,0.63
+1455,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2019M04,413.54
+1456,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2019M04,0.75
+1457,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2019M05,414.86
+1458,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2019M05,0.83
+1459,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2019M06,414.15
+1460,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2019M06,0.77
+1461,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2019M07,411.96
+1462,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2019M07,0.75
+1463,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2019M08,410.17
+1464,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2019M08,0.74
+1465,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2019M09,408.76
+1466,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2019M09,0.75
+1467,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2019M10,408.74
+1468,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2019M10,0.63
+1469,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2019M11,410.47
+1470,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2019M11,0.55
+1471,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2019M12,411.97
+1472,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2019M12,0.66
+1473,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2020M01,413.59
+1474,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2020M01,0.62
+1475,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2020M02,414.32
+1476,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2020M02,0.57
+1477,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2020M03,414.71
+1478,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2020M03,0.61
+1479,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2020M04,416.42
+1480,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2020M04,0.7
+1481,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2020M05,417.28
+1482,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2020M05,0.58
+1483,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2020M06,416.58
+1484,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2020M06,0.59
+1485,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2020M07,414.58
+1486,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2020M07,0.64
+1487,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2020M08,412.75
+1488,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2020M08,0.63
+1489,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2020M09,411.49
+1490,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2020M09,0.67
+1491,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2020M10,411.48
+1492,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2020M10,0.67
+1493,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2020M11,413.1
+1494,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2020M11,0.64
+1495,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2020M12,414.23
+1496,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2020M12,0.55
+1497,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2021M01,415.49
+1498,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2021M01,0.46
+1499,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2021M02,416.72
+1500,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2021M02,0.58
+1501,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2021M03,417.61
+1502,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2021M03,0.7
+1503,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2021M04,419.01
+1504,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2021M04,0.62
+1505,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2021M05,419.09
+1506,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2021M05,0.43
+1507,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2021M06,418.92
+1508,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2021M06,0.56
+1509,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2021M07,416.9
+1510,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2021M07,0.56
+1511,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2021M08,414.42
+1512,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2021M08,0.4
+1513,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2021M09,413.26
+1514,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2021M09,0.43
+1515,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2021M10,413.9
+1516,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2021M10,0.59
+1517,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2021M11,414.97
+1518,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2021M11,0.45
+1519,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2021M12,416.67
+1520,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2021M12,0.59
+1521,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2022M01,418.13
+1522,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2022M01,0.64
+1523,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2022M02,419.24
+1524,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2022M02,0.6
+1525,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2022M03,418.76
+1526,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2022M03,0.28
+1527,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2022M04,420.19
+1528,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2022M04,0.28
+1529,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2022M05,420.97
+1530,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2022M05,0.45
+1531,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2022M06,420.94
+1532,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2022M06,0.48
+1533,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2022M07,418.85
+1534,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2022M07,0.47
+1535,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2022M08,417.15
+1536,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2022M08,0.66
+1537,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2022M09,415.91
+1538,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2022M09,0.64
+1539,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2022M10,415.74
+1540,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2022M10,0.44
+1541,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2022M11,417.47
+1542,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2022M11,0.6
+1543,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2022M12,418.99
+1544,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2022M12,0.56
+1545,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2023M01,419.48
+1546,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2023M01,0.32
+1547,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2023M02,420.3
+1548,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2023M02,0.25
+1549,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2023M03,420.98
+1550,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2023M03,0.53
+1551,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2023M04,423.35
+1552,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2023M04,0.75
+1553,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2023M05,424
+1554,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2023M05,0.72
+1555,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2023M06,423.68
+1556,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2023M06,0.65
+1557,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2023M07,421.83
+1558,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2023M07,0.71
+1559,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2023M08,419.68
+1560,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2023M08,0.61
+1561,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2023M09,418.51
+1562,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2023M09,0.63
+1563,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2023M10,418.82
+1564,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2023M10,0.74
+1565,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2023M11,420.46
+1566,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2023M11,0.72
+1567,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2023M12,421.86
+1568,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2023M12,0.68
+1569,Monthly Atmospheric Carbon Dioxide Concentrations,Parts Per Million,2024M01,0.68
+1570,"Monthly Atmospheric Carbon Dioxide Concentrations, Year on Year Percentage Change",Percent,2024M01,0.68
